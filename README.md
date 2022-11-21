@@ -6,7 +6,7 @@
 
 ## Instalación
 
-Clone este repositorio en la misma ruta donde tiene el repositorio de cypress
+Clone este repositorio en la misma ruta donde tiene el repositorio de cypress (esta implementacion solo funciona para las pruebas con cypress)
 
 ```bash
  npm install
@@ -28,3 +28,6 @@ ejecute el comando para hacer la comparacion de las imagenes entre las dos versi
   - El archivo se llama `report.html` y se recomienda usar un servidor tipo [http-server](https://www.npmjs.com/package/http-server) para su visualización 
 
 Se dejan imagenes y reporte precargados para una preinspeccion.
+
+
+Nota: los otros repositorios a tener en cuenta son [kraken](https://github.com/dhenaotoro/automatizacion-semana5-kraken) y [cypress](https://github.com/laubeltranandes/automation-cy-week-5)
